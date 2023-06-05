@@ -1,0 +1,21 @@
+{
+  "name": "cheerio-scraper",
+  "version": "1.0.0",
+  "description": "using node and cheerio to scrape a webpage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cheerio",
+    "node",
+    "scraper"
+  ],
+  "author": "J. Flowers",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12",
+    "pretty": "^2.0.0"
+  }
+}
